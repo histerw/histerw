@@ -1,4 +1,4 @@
-# Hi, I'm Histerr 🌱
+# Hi, I'm Histerw 🌱
 
 I am a young programmer and Minecraft modder from Chile, and I'm constantly learning to become a better programmer 😄!
 
