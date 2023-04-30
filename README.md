@@ -7,11 +7,11 @@ I am a young programmer and Minecraft modder from Chile, and I'm constantly lear
 - Web programming
 - Improving my modding skills
 
-## How to Contact Me
+## How to Contact Me 📫
 
 You can contact me via [Twitter](https://twitter.com/Jisterxa)!
 
-## Skills
+## Skills ⚡
 
 Here are some of the skills that I possess:
 
